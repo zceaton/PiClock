@@ -12,11 +12,11 @@ But instead the PiClock was born.
 
 The early days and evolution of it are chronicled on my blog http://n0bel.net/v1/index.php/projects/raspberry-pi-clock
 
-This project is still in flux, not ready for general usage.    Expect major refactoring and reorganization to occur.
+If you want to build your own, I'd suggest starting with the overview
+https://github.com/n0bel/PiClock/blob/master/Documentation/Overview.md
 
-A decent amount of documentation is now ready. 
-
-I'd suggest starting with the overview https://github.com/n0bel/PiClock/blob/master/Documentation/Overview.md
+If you want to use the PiClock on your desktop (not your Pi), I'd suggest using these instructions.
+https://github.com/n0bel/PiClock/blob/master/Documentation/Install-Clock-Only.md
 
 All of the extra hardware (IR Remote, GPIO buttons, Temperature, LEDs) are optional, so you can then jump to the install guide
 https://github.com/n0bel/PiClock/blob/master/Documentation/Install.md
